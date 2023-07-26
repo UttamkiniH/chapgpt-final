@@ -1,0 +1,6 @@
+{
+"openaiurl": "https://iwi-bee.openai.azure.com/openai/deployments/chatgpt/completions?api-version=2022-12-01",
+"openaipikey": "e9ba3ed113784d4182773a8ba85d088e",
+"ttsregion": "eastus",
+"ttsapikey": "4fae226891254a548a04cb773e1b2627"
+}
